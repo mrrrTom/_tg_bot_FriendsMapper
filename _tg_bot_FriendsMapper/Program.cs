@@ -10,7 +10,7 @@ namespace _tg_bot_FriendsMapper
 {
     internal class Program
     {
-        //ToDo убрать из статики
+        //ToDo remove from static
         //написать нормалььный hhtpclient с ретраем, таймаутом и блекджеком
         static ITelegramBotClient botClient = new TelegramBotClient("6906252266:AAFL6PY5q6uhe_eniAhOLlmszCoHU6rQrSc");
 
